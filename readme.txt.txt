@@ -1,0 +1,1 @@
+สำหรับ gen category รูปภาพทั้ง jpg และ png ไว้สำหรั upload เข้า Stock Photo
